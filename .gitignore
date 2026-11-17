@@ -1,0 +1,4 @@
+campuscompute
+*.o
+*.out
+activity.log
